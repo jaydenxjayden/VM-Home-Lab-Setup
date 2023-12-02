@@ -14,46 +14,28 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 | OS Name                            | Microsoft Windows 10 Pro |
 | Version                            | 10.0.19045 Build 19045   |
 | Processor                          | AMD Ryzen 5 3600 6-Core Processor|
-| RAM                                | 16.0 GB​                  |
+| RAM                                | 16 GB​                    |
 | C Drive Storage                    | 512 GB                   |
 | D Drive Storage                    | 1 TB​                     |
 
 <h2>Virtualization Platform Setup</h2>
 
-<b>VMware Workstation 16 Pro</b>
+<div align="left">
 
-1. Search for VMware Workstation 16 Pro & Download installer from Website <br/>
-<img src="https://i.imgur.com/yn96A8v.png" height="70%" width="70%" alt="homelab"/>
+1. The virtualization platform I used is VMware Workstation 16 Pro
 
-2. 
-<h2>Program walk-through:</h2>
+   <img src="https://i.imgur.com/yn96A8v.png" height="40%" width="40%" alt="homelab"/>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/yn96A8v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+2. After downloading, I launch the installer, continue clicking next, and accepted the license agreement
 
+   <img src="https://i.imgur.com/ifl7H5D.png" height="40%" width="40%" alt="homelab"/> 
+   <img src="https://i.imgur.com/j2HRLTn.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/i1WK5ai.png" height="40%" width="40%" alt="homelab"/> 
+   <img src="https://i.imgur.com/Ytdhdhc.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/25EqBFM.png" height="40%" width="40%" alt="homelab"/> 
+
+3. Use Google Dorks to get the license key for Workstation, and you are done.
+
+   <img src="https://i.imgur.com/429t5zc.png" height="40%" width="40%" alt="homelab"/>
+
+</div>
