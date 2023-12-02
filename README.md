@@ -100,11 +100,30 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
    <img src="https://i.imgur.com/ngHF9Bz.png" height="40%" width="40%" alt="homelab"/>
 
 15. Click enter to start installing Ubuntu Server. Language will be English.
+
+   <img src="https://i.imgur.com/wr3sCb8.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/uvMEj6S.png" height="40%" width="40%" alt="homelab"/>
+
 16. Base for installation will be Ubuntu Server.
+
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+
 17. IP can be assigned manually, but we will leave it to DHCP.
+
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+
 18. Select use entire disk space, and fill in the basic information and credentials for the server.
+
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/> <br />
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+
 19. Install SSH server and finish installation
+
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+
 20. Enter credentials to login! 
+
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
     
 </div>
 
