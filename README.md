@@ -106,24 +106,25 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
 16. Base for installation will be Ubuntu Server.
 
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="80%" alt="homelab"/>
 
 17. IP can be assigned manually, but we will leave it to DHCP.
 
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/UOXWE5p.png" height="40%" width="80%" alt="homelab"/>
 
 18. Select use entire disk space, and fill in the basic information and credentials for the server.
 
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/> <br />
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/KTSUG37.png" height="40%" width="40%" alt="homelab"/> <br />
+   <img src="https://i.imgur.com/SdbBCgH.png" height="40%" width="80%" alt="homelab"/>
 
 19. Install SSH server and finish installation
 
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/oN4Pd82.png" height="40%" width="80%" alt="homelab"/>
+   <img src="https://i.imgur.com/QdWrbsV.png" height="40%" width="40%" alt="homelab"/>
 
 20. Enter credentials to login! 
 
-   <img src="https://i.imgur.com/X1rkfIG.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/OHJ4Di0.png" height="80%" width="80%" alt="homelab"/>
     
 </div>
 
