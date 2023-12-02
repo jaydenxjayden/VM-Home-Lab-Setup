@@ -46,7 +46,7 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
    <img src="https://i.imgur.com/A3VzPSe.png" height="40%" width="40%" alt="homelab"/>
 
-5. After downloading, I locate the .vmx file, right click on it to open it with VMware Workstation
+5. After download, I locate the .vmx file, right click on it to open it with VMware Workstation
 
    <img src="https://i.imgur.com/qVow7Uo.png" height="40%" width="40%" alt="homelab"/> 
 
@@ -59,4 +59,22 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
 </div>
 
+<div align="left">
+
+7. As for the server environment, I have decided that it will run on Ubuntu, as it is widely used and is known for its stability. 
+
+   <img src="https://i.imgur.com/0kFE5p0.png" height="40%" width="40%" alt="homelab"/>
+
+8. After downloading, open
+
+   <img src="https://i.imgur.com/qVow7Uo.png" height="40%" width="40%" alt="homelab"/> 
+
+9. Power on the virtual machine and log in using the default credentials to complete the installation.
+
+   <img src="https://i.imgur.com/gOUJH4y.png" height="40%" width="40%" alt="homelab"/>
+   <br />
+   <br />
+   <img src="https://i.imgur.com/9GtJFl9.png" height="40%" width="40%" alt="homelab"/>
+
+</div>
 
