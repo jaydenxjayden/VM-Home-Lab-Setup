@@ -72,14 +72,33 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 9. Select custom, click next, and next
 
    <img src="https://i.imgur.com/uj7jpLO.png" height="40%" width="40%" alt="homelab"/>
-   <img src="https://i.imgur.com/gOUJH4y.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/gPI9txs.png" height="40%" width="40%" alt="homelab"/>
 
 10. Select installer disc image file, and choose the downloaded Ubuntu file, click next. Give the VM a name, and choose the location for the VM.
+
+   <img src="https://i.imgur.com/mMXF6kE.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/XTZIFhP.png" height="40%" width="40%" alt="homelab"/>
     
 11. Leave processor configuration as default, memory and 2GB and network type as NAT.
-12. Default settings for I/O and disk type.
+
+   <img src="https://i.imgur.com/fsQjnBU.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/aW9qqta.png" height="40%" width="40%" alt="homelab"/>
+
+
+12. Set network type as NAT and leave the default settings for I/O and disk type.
+
+   <img src="https://i.imgur.com/Pu5mbf8.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/yPn0do7.png" height="40%" width="40%" alt="homelab"/>
+
 13. Create new virtual disk, give it 40GB storage.
+
+   <img src="https://i.imgur.com/VHpZvpu.png" height="40%" width="40%" alt="homelab"/>
+
 14. Default disk file location and click finish.
+
+   <img src="https://i.imgur.com/UKfVE9x.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/ngHF9Bz.png" height="40%" width="40%" alt="homelab"/>
+
 15. Click enter to start installing Ubuntu Server. Language will be English.
 16. Base for installation will be Ubuntu Server.
 17. IP can be assigned manually, but we will leave it to DHCP.
