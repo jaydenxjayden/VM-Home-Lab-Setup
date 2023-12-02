@@ -46,7 +46,7 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
    <img src="https://i.imgur.com/A3VzPSe.png" height="40%" width="40%" alt="homelab"/>
 
-5. After download, I locate the .vmx file, right click on it to open it with VMware Workstation
+5. After download, extract files and locate the .vmx file, right click on it to open it with VMware Workstation
 
    <img src="https://i.imgur.com/qVow7Uo.png" height="40%" width="40%" alt="homelab"/> 
 
@@ -61,20 +61,31 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
 <div align="left">
 
-7. As for the server environment, I have decided that it will run on Ubuntu, as it is widely used and is known for its stability. 
+7. As for the server environment, I have decided that it will run on Ubuntu, as it is widely used and is known for its stability. (I had no idea setting up the server environment is much more complicated 😥)
 
    <img src="https://i.imgur.com/0kFE5p0.png" height="40%" width="40%" alt="homelab"/>
 
-8. After downloading, open
+8. After downloading from the website, run VMware Workstation and select "create new VM"
 
-   <img src="https://i.imgur.com/qVow7Uo.png" height="40%" width="40%" alt="homelab"/> 
+   <img src="https://i.imgur.com/LZ94GC7.png" height="40%" width="40%" alt="homelab"/> 
 
-9. Power on the virtual machine and log in using the default credentials to complete the installation.
+9. Select custom, click next, and next
 
+   <img src="https://i.imgur.com/uj7jpLO.png" height="40%" width="40%" alt="homelab"/>
    <img src="https://i.imgur.com/gOUJH4y.png" height="40%" width="40%" alt="homelab"/>
-   <br />
-   <br />
-   <img src="https://i.imgur.com/9GtJFl9.png" height="40%" width="40%" alt="homelab"/>
 
+10. Select installer disc image file, and choose the downloaded Ubuntu file, click next. Give the VM a name, and choose the location for the VM.
+    
+11. Leave processor configuration as default, memory and 2GB and network type as NAT.
+12. Default settings for I/O and disk type.
+13. Create new virtual disk, give it 40GB storage.
+14. Default disk file location and click finish.
+15. Click enter to start installing Ubuntu Server. Language will be English.
+16. Base for installation will be Ubuntu Server.
+17. IP can be assigned manually, but we will leave it to DHCP.
+18. Select use entire disk space, and fill in the basic information and credentials for the server.
+19. Install SSH server and finish installation
+20. Enter credentials to login! 
+    
 </div>
 
