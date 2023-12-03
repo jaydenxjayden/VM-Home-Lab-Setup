@@ -41,6 +41,7 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 </div>
 
 <div align="left">
+[Kali Linux installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
 
 4. I will be using Kali Linux as my primary VM, as it comes pre-installed with many cybersecurity tools.
 
