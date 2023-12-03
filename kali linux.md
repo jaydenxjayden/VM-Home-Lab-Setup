@@ -1,8 +1,9 @@
 </div>
 
 <div align="left">
+<h1>I will be using Kali Linux as my primary VM, as it comes pre-installed with an extensive array of Cybersecurity tools, which I would like to explore.</h1>
 
-1. I will be using Kali Linux as my primary VM, as it comes pre-installed with many cybersecurity tools.
+1. I downloaded the VM from the kali website, and selected the one meant for VMware.
 
    <img src="https://i.imgur.com/A3VzPSe.png" height="40%" width="40%" alt="homelab"/>
 
