@@ -1,6 +1,7 @@
 <div align="left">
+<h1>As for the server environment, I have decided that it will run on Ubuntu, as it is widely used and is known for its stability. </h1>
 
-1. As for the server environment, I have decided that it will run on Ubuntu, as it is widely used and is known for its stability. (I had no idea setting up the server environment is much more complicated 😥)
+1. I downloaded the ubuntu VM from the ubuntu website, navigate to downloads, select get ubuntu server and proceeded with manual installation.
 
    <img src="https://i.imgur.com/0kFE5p0.png" height="40%" width="40%" alt="homelab"/>
 
