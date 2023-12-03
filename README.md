@@ -45,5 +45,5 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
 - [Kali Linux Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
 - [Ubuntu Server Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/ubuntu.md)
-
+- [Windows 10 Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/windows10.md)
 
