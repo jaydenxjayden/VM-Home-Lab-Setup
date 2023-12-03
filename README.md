@@ -38,27 +38,13 @@ I started my learning journey in Cybersecurity on Sep 23, mainly using learning 
 
    <img src="https://i.imgur.com/429t5zc.png" height="40%" width="40%" alt="homelab"/>
 
-</div>
+<br />
+<br />
+<h2>These are the VMs that I am using. I have documented the installation process as follows.</h2>
+<br />
 
-<div align="left">
-[Kali Linux installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
+- [Kali Linux Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
 
-4. I will be using Kali Linux as my primary VM, as it comes pre-installed with many cybersecurity tools.
-
-   <img src="https://i.imgur.com/A3VzPSe.png" height="40%" width="40%" alt="homelab"/>
-
-5. After download, extract files and locate the .vmx file, right click on it to open it with VMware Workstation
-
-   <img src="https://i.imgur.com/qVow7Uo.png" height="40%" width="40%" alt="homelab"/> 
-
-6. Power on the virtual machine and log in using the default credentials to complete the installation.
-
-   <img src="https://i.imgur.com/gOUJH4y.png" height="40%" width="40%" alt="homelab"/>
-   <br />
-   <br />
-   <img src="https://i.imgur.com/9GtJFl9.png" height="40%" width="40%" alt="homelab"/>
-
-</div>
 
 <div align="left">
 
