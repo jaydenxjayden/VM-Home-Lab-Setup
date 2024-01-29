@@ -40,10 +40,10 @@ I developed an interest in Cybersecurity in 2023, and was mainly using learning 
 
 <br />
 <br />
-<h2>These are the VMs that I am using. I have documented the installation process as follows.</h2>
+<h2>These are the VMs that I am using. I have documented the installation process as follows.
 <br />
 
 - [Kali Linux Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
 - [Ubuntu Server Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/ubuntu.md)
-- [Windows 10 Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/windows10.md)
+- [Windows 10 Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/windows10.md) </h2>
 
