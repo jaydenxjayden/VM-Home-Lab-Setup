@@ -19,7 +19,7 @@
 
 
 
-2. After backing up the files within the system, I installed a fresh Windows 10 OS using the [Windows Bootable USB Drive](https://github.com/projecturl) I created previously.
+2. After backing up the files within the system, I installed a fresh Windows 10 OS using the [Windows Bootable USB Drive](https://github.com/jaydenxjayden/Bootable-USB-Drive.md) I created previously.
 
 3. I inserted the USB Drive, navigated to settings > recovery options and selected 'Restart now' under advanced startup.
 
