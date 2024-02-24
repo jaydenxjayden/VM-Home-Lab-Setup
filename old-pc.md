@@ -49,4 +49,4 @@
    Since I only have one Ethernet port available, I've acquired a network switch to enable an internet connection via Ethernet for both my primary computer and the newly set up Windows machine.
    I purchased the TP-LINK LS1005G Gigabit Network Switch from Lazada. It can allow for up to 5 ports, which would be sufficient for my home lab.
 
-      <img src="https://i.imgur.com/7hPhuTl.png" height="40%" width="40%" alt="homelab"/>
+      <img src="https://i.imgur.com/fTqy81l.png" height="40%" width="40%" alt="homelab"/>
