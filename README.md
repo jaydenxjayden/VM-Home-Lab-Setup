@@ -45,5 +45,7 @@ I developed an interest in Cybersecurity in 2023, and was mainly using learning 
 
 - [Kali Linux Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/kali%20linux.md)
 - [Ubuntu Server Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/ubuntu.md)
-- [Windows 10 Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/windows10.md) </h2>
+- [Windows 10 Installation](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/windows10.md)
+- [Old-PC setup](https://github.com/jaydenxjayden/VM-Home-Lab-Setup/blob/main/old-pc.md)
+</h2>
 
