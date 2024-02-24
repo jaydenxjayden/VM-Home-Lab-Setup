@@ -3,7 +3,7 @@
 1. Firstly, I checked its specifications and found out that its the Asus model m80cj desktop.
 
    <img src="https://i.imgur.com/5HNPVn3.png" height="40%" width="40%" alt="homelab"/>
-
+<div style="margin-left: 50px;">
 <b>Host Machine Specifications</b>
 
 | Item                               | Specifications           |
@@ -14,7 +14,7 @@
 | RAM                                | 8 GB​                     |
 | C Drive Storage                    | 128 GB                   |
 | D Drive Storage                    | 1 TB​                     |
-
+</div>
 <div align="left">
 
 
