@@ -1,4 +1,4 @@
-<h1>My Virtual Playground: Home Lab Setup Using Virtual Machines</h1>
+<h1>Home Lab Setup Using Virtual Machines</h1>
 
 <h2>Description</h2>
 I developed an interest in Cybersecurity in 2023, and was mainly using learning platforms such as TryHackMe and HackTheBox. I have only used the machines provided by these websites and I felt that it was very limited and laggy at times. That is what got me thinking about building my own (virtual) Homelab for myself so that I can not only have hands-on practice on configuring the machines, but also have a safe environment for me to poke around in. I decided that creating a Homelab using Virtual Machines (VM) would be the most cost-efficient for my current learning goals. This is my write-up of creating my Homelab using VM.
