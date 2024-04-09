@@ -34,7 +34,7 @@ I developed an interest in Cybersecurity in 2023, and was mainly using learning 
    <img src="https://i.imgur.com/Ytdhdhc.png" height="40%" width="40%" alt="homelab"/>
    <img src="https://i.imgur.com/25EqBFM.png" height="40%" width="40%" alt="homelab"/> 
 
-3. Use Google Dorks to get the license key for Workstation, and you are done.
+3. Use Google Dorks to get the license key for Workstation, and its done!
 
    <img src="https://i.imgur.com/429t5zc.png" height="40%" width="40%" alt="homelab"/>
 
